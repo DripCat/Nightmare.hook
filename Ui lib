@@ -1,5 +1,5 @@
 local settings = {
-    folder_name = "zephyrus"; -- stupid shit
+    folder_name = "Nightmare.hook_CB"; -- stupid shit
     default_accent = Color3.fromRGB(61, 100, 227); -- also stupid shit
 };
 
